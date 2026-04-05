@@ -1,0 +1,116 @@
+{
+  "blocks": {
+    "admin": [
+      {"name": "A Block", "purpose": "Administrative Offices", "description": "Main administrative building with registrar, admissions, and finance offices"},
+      {"name": "B Block", "purpose": "Administrative Offices", "description": "Additional administrative offices and faculty meeting rooms"}
+    ],
+    "boysHostels": [
+      {"name": "C1", "capacity": 150, "amenities": ["Common Room", "Study Area", "Warden Office"], "wardenLocation": "C1", "description": "Boys Hostel C1, Warden office located within"},
+      {"name": "C2", "capacity": 150, "amenities": ["Common Room", "Study Area"], "wardenLocation": "C1", "description": "Boys Hostel C2, Warden office at C1"},
+      {"name": "C3", "capacity": 150, "amenities": ["Common Room", "Study Area", "Lost & Found Office"], "wardenLocation": "C1", "description": "Boys Hostel C3, Lost & Found office on ground floor"},
+      {"name": "C4", "capacity": 150, "amenities": ["Common Room", "Study Area", "Chief Warden Office"], "wardenLocation": "C1", "description": "Boys Hostel C4, Chief Warden office located here"},
+      {"name": "C5", "capacity": 150, "amenities": ["Common Room", "Study Area"], "wardenLocation": "C1", "description": "Boys Hostel C5, Warden office at C1"},
+      {"name": "C6", "capacity": 150, "amenities": ["Common Room", "Study Area"], "wardenLocation": "C8", "description": "Boys Hostel C6, Warden office at C8"},
+      {"name": "C7", "capacity": 150, "amenities": ["Common Room", "Study Area", "Tuck Shop"], "wardenLocation": "C8", "description": "Boys Hostel C7, Tuck Shop on ground floor"},
+      {"name": "C8", "capacity": 150, "amenities": ["Common Room", "Study Area", "Warden Office"], "wardenLocation": "C8", "description": "Boys Hostel C8, Warden office for C6-C12 located here"},
+      {"name": "C9", "capacity": 150, "amenities": ["Common Room", "Study Area"], "wardenLocation": "C8", "description": "Boys Hostel C9, Warden office at C8"},
+      {"name": "C10", "capacity": 150, "amenities": ["Common Room", "Study Area"], "wardenLocation": "C8", "description": "Boys Hostel C10, Warden office at C8"},
+      {"name": "C11", "capacity": 150, "amenities": ["Common Room", "Study Area", "DSA Office"], "wardenLocation": "C8", "description": "Boys Hostel C11, DSA (Dean Student Affairs) office located here"},
+      {"name": "C12", "capacity": 150, "amenities": ["Common Room", "Study Area"], "wardenLocation": "C8", "description": "Boys Hostel C12, Warden office at C8"}
+    ],
+    "girlsHostels": [
+      {"name": "D1", "capacity": 120, "amenities": ["Common Room", "Study Area", "Security Desk"], "description": "Girls Hostel D1"},
+      {"name": "D2", "capacity": 120, "amenities": ["Common Room", "Study Area"], "description": "Girls Hostel D2"},
+      {"name": "D3", "capacity": 120, "amenities": ["Common Room", "Study Area", "Laundry Service"], "description": "Girls Hostel D3, Laundry facility available"},
+      {"name": "D4", "capacity": 120, "amenities": ["Common Room", "Study Area"], "description": "Girls Hostel D4"},
+      {"name": "D5", "capacity": 120, "amenities": ["Common Room", "Study Area"], "description": "Girls Hostel D5"},
+      {"name": "D6", "capacity": 120, "amenities": ["Common Room", "Study Area", "Gym"], "description": "Girls Hostel D6, Gym facility available"}
+    ],
+    "faculty": [
+      {"name": "H Block", "purpose": "Faculty Housing", "description": "Residential block for faculty members"}
+    ],
+    "sports": [
+      {"name": "K Block", "purpose": "Sports Complex", "amenities": ["Gym", "Swimming Pool", "Indoor Courts", "Sports Equipment Room"], "description": "Main sports complex with all major facilities"}
+    ],
+    "academic": [
+      {"name": "M Block", "purpose": "Academic Building", "floors": 3, "departments": ["Computer Science", "Engineering", "Sciences"], "description": "Main academic block with faculty cabins and classrooms, M Block 101-150"},
+      {"name": "N1 Block", "purpose": "Academic Building", "floors": 3, "departments": ["Management", "Media Studies", "Commerce"], "description": "Academic block with faculty cabins N1-201 to N1-235"},
+      {"name": "N2 Block", "purpose": "Academic Building", "floors": 3, "departments": ["Law", "Liberal Arts", "Social Sciences"], "description": "Academic block with faculty cabins N2-112 to N2-245"}
+    ]
+  },
+  "facilities": {
+    "mess": {
+      "name": "Gobble Mess",
+      "location": "Central Campus",
+      "floors": 2,
+      "capacity": 1500,
+      "timings": {
+        "breakfast": "7:30 AM - 9:30 AM",
+        "lunch": "12:00 PM - 2:30 PM",
+        "snacks": "5:00 PM - 6:00 PM",
+        "dinner": "7:30 PM - 10:00 PM"
+      },
+      "description": "Two-floor main mess facility serving all meals"
+    },
+    "gyms": [
+      {"name": "Open Gym", "location": "Behind Gobble Mess", "type": "Outdoor", "timings": "5:00 AM - 10:00 PM", "equipment": ["Pull-up bars", "Parallel bars", "Workout stations"], "description": "Open-air gym facility"},
+      {"name": "D6 Gym", "location": "D6 Hostel", "type": "Indoor", "timings": "6:00 AM - 10:00 PM", "equipment": ["Treadmills", "Weights", "Cardio machines"], "description": "Indoor gym in girls hostel D6"},
+      {"name": "K Block Gym", "location": "K Block Sports Complex", "type": "Indoor", "timings": "6:00 AM - 10:00 PM", "equipment": ["Full weightlifting setup", "Cardio machines", "Functional training area"], "description": "Main sports complex gym with comprehensive equipment"}
+    ],
+    "sports": [
+      {"type": "Swimming Pool", "location": "K Block", "timings": "6:00 AM - 8:00 PM", "description": "Olympic-sized swimming pool"},
+      {"type": "Football Ground", "location": "Near K Block", "timings": "6:00 AM - 9:00 PM", "description": "Full-size football field"},
+      {"type": "Basketball Court", "location": "Near K Block", "count": 2, "timings": "6:00 AM - 10:00 PM", "description": "Two outdoor basketball courts"},
+      {"type": "Badminton Court", "location": "K Block Indoor", "count": 4, "timings": "6:00 AM - 10:00 PM", "description": "Four indoor badminton courts"},
+      {"type": "Tennis Court", "location": "Near K Block", "count": 2, "timings": "6:00 AM - 9:00 PM", "description": "Two outdoor tennis courts"},
+      {"type": "Cricket Ground", "location": "Near K Block", "timings": "6:00 AM - 7:00 PM", "description": "Cricket practice ground with nets"},
+      {"type": "Volleyball Court", "location": "Near K Block", "timings": "6:00 AM - 9:00 PM", "description": "Outdoor volleyball court"}
+    ],
+    "food": [
+      {"name": "Tuck Shop", "location": "C7 Ground Floor", "type": "Snacks & Beverages", "timings": "8:00 AM - 11:00 PM", "offerings": ["Snacks", "Soft drinks", "Instant noodles", "Chips", "Chocolates"], "description": "24/7 convenience store in boys hostel C7"},
+      {"name": "Maggie Hotspot", "location": "Near C1 Hostel", "type": "Food Stall", "timings": "6:00 PM - 2:00 AM", "offerings": ["Maggie", "Omelets", "Sandwiches", "Tea"], "description": "Popular late-night food stall near C1"},
+      {"name": "Southern Hotspot", "location": "Near D1 Hostel", "type": "Food Stall", "timings": "6:00 PM - 1:00 AM", "offerings": ["South Indian snacks", "Dosa", "Idli", "Coffee"], "description": "South Indian food stall near D1"},
+      {"name": "Dominos", "location": "N Block", "type": "Restaurant", "timings": "11:00 AM - 11:00 PM", "offerings": ["Pizza", "Garlic bread", "Pasta"], "description": "Dominos Pizza outlet in N Block"},
+      {"name": "Subway", "location": "N Block", "type": "Restaurant", "timings": "11:00 AM - 11:00 PM", "offerings": ["Sandwiches", "Wraps", "Salads"], "description": "Subway outlet in N Block"},
+      {"name": "Infinity Cafe", "location": "Between N1 and N2 Blocks", "type": "Cafe", "timings": "9:00 AM - 9:00 PM", "offerings": ["Coffee", "Snacks", "Sandwiches", "Shakes"], "description": "Cafe between N blocks, popular student hangout"}
+    ],
+    "services": [
+      {"name": "Laundry Service", "location": "D3 Hostel", "timings": "8:00 AM - 8:00 PM", "description": "Laundry and dry cleaning service", "contact": "+91-120-4754000"},
+      {"name": "Lost & Found Office", "location": "C3 Hostel Ground Floor", "timings": "9:00 AM - 6:00 PM", "description": "Lost and found items office", "contact": "+91-120-4754001"},
+      {"name": "Chief Warden Office", "location": "C4 Hostel", "timings": "9:00 AM - 5:00 PM", "description": "Chief Warden office for all hostel matters", "contact": "+91-120-4754002"},
+      {"name": "C1-C5 Warden Office", "location": "C1 Hostel", "timings": "24/7", "description": "Warden office for hostels C1 through C5", "contact": "+91-120-4754003"},
+      {"name": "C6-C12 Warden Office", "location": "C8 Hostel", "timings": "24/7", "description": "Warden office for hostels C6 through C12", "contact": "+91-120-4754004"},
+      {"name": "DSA Office", "location": "C11 Hostel", "timings": "9:00 AM - 5:00 PM", "description": "Dean of Student Affairs office", "contact": "+91-120-4754005"},
+      {"name": "Medical Center", "location": "Near A Block", "timings": "24/7", "description": "Campus medical center with emergency services", "contact": "+91-120-4754006"},
+      {"name": "Security Office", "location": "Near Gate 1", "timings": "24/7", "description": "Campus security office", "contact": "+91-120-4754007"}
+    ],
+    "gates": [
+      {"number": 1, "name": "Main Gate", "purpose": "Main Entry/Exit", "location": "Front of Campus", "timings": "24/7", "description": "Primary gate for students, faculty, and visitors"},
+      {"number": 2, "name": "Delivery Gate", "purpose": "Online Food Delivery", "location": "Near Hostels", "timings": "24/7", "description": "Gate for food delivery services (Swiggy, Zomato, etc.)"},
+      {"number": 3, "name": "Package Gate", "purpose": "Online Orders/Packages", "location": "Near Academic Blocks", "timings": "8:00 AM - 10:00 PM", "description": "Gate for e-commerce deliveries and packages"}
+    ],
+    "libraries": [
+      {"name": "Central Library", "location": "Near M Block", "floors": 3, "capacity": 500, "timings": "8:00 AM - 10:00 PM", "description": "Main library with extensive book collection and study areas"}
+    ],
+    "other": [
+      {"name": "Student Activity Center", "location": "Near C Blocks", "description": "Hub for student clubs and activities"},
+      {"name": "Auditorium", "location": "Near A Block", "capacity": 1000, "description": "Main auditorium for events and seminars"},
+      {"name": "ATM", "location": "Near A Block, C7, N Block", "count": 3, "description": "Multiple ATM locations on campus"},
+      {"name": "Stationery Shop", "location": "Near M Block", "timings": "9:00 AM - 7:00 PM", "description": "Shop for books, stationery, and academic supplies"}
+    ]
+  },
+  "directions": {
+    "fromGate1": {
+      "toHostels": "Turn right after entry, C blocks on right side, D blocks on left side",
+      "toAcademicBlocks": "Straight ahead to M Block, N blocks to the left",
+      "toSportsComplex": "Go straight and turn right past hostels to reach K Block",
+      "toMess": "Central location, visible from main road"
+    },
+    "emergencyContacts": {
+      "security": "+91-120-4754007",
+      "medical": "+91-120-4754006",
+      "chiefWarden": "+91-120-4754002",
+      "administration": "+91-120-4754000"
+    }
+  }
+}

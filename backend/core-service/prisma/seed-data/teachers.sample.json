@@ -1,0 +1,20 @@
+{
+  "teachers": [
+    {
+      "name": "Anita Verma",
+      "email": "anita.verma@bennett.edu.in",
+      "department": "Computer Science",
+      "designation": "Associate Professor",
+      "employeeId": "BU-CS-1023",
+      "specialization": "Machine Learning"
+    },
+    {
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@bennett.edu.in",
+      "department": "Management",
+      "designation": "Assistant Professor",
+      "employeeId": "BU-MGMT-2041",
+      "specialization": "Finance"
+    }
+  ]
+}

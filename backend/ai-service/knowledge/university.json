@@ -1,0 +1,261 @@
+{
+  "name": "Bennett University",
+  "location": "Greater Noida, Uttar Pradesh, India",
+  "established": 2016,
+  "overview": "Bennett University is a private, UGC-approved institution established by The Times Group. It focuses on globally benchmarked, research-driven, and industry-aligned education with strong emphasis on innovation, AI, and experiential learning.",
+  "keyFacts": {
+    "campusSize": "68 acres in Tech Zone 2, Greater Noida",
+    "totalStudents": "11,500+",
+    "hostelCapacity": "Up to 10,000 residents",
+    "accreditations": ["UGC", "NAAC A+", "AICTE (relevant programs)", "BCI (law)"],
+    "chancellor": "Vineet Jain (Managing Director, The Times Group)",
+    "focusAreas": ["Innovation", "Artificial Intelligence", "Industry-aligned curriculum", "Experiential learning"],
+    "totalPrograms": "30+ undergraduate, postgraduate, and doctoral programs"
+  },
+  "schools": [
+    {
+      "name": "School of Computer Science Engineering & Technology",
+      "programs": ["B.Tech CSE", "BCA", "MCA", "Integrated/dual degrees", "PhD"]
+    },
+    {
+      "name": "School of Engineering & Applied Sciences",
+      "programs": ["B.Tech ECE", "B.Tech Mechanical", "B.Tech Biotechnology", "M.Tech VLSI", "M.Tech Materials Science", "PhD"]
+    },
+    {
+      "name": "School of Artificial Intelligence",
+      "programs": ["M.Tech AI", "M.Sc. AI", "PG Diploma AI for Healthcare", "PhD"]
+    },
+    {
+      "name": "School of Management",
+      "programs": ["BBA", "B.Com (Hons)", "MBA (Marketing, Finance, HR, Analytics, Entrepreneurship, Family Business, Healthcare Management)", "PhD"]
+    },
+    {
+      "name": "Times School of Media",
+      "programs": ["BA (Hons) Mass Communication", "Film/TV/Web Series", "MA programs", "PhD"]
+    },
+    {
+      "name": "School of Law",
+      "programs": ["BA LLB (Hons)", "BBA LLB (Hons)", "LLM", "PhD"]
+    },
+    {
+      "name": "School of Liberal Arts",
+      "programs": ["BA (Hons) Psychology", "BA (Hons) Economics", "BA (Hons) English", "BA (Hons) Political Science", "MA/M.Sc.", "PhD"]
+    },
+    {
+      "name": "School of Design",
+      "programs": ["B.Des (Hons) Fashion", "B.Des (Hons) Product", "B.Des (Hons) Game", "B.Des (Hons) UI/UX with AI integration", "M.Des"]
+    },
+    {
+      "name": "School of Global Pathways",
+      "programs": ["2+2 B.Tech CSE with University of Birmingham", "2+1 BBA with University of Reading", "Other transfer and dual-degree pathways"]
+    }
+  ],
+  "globalCollaborations": [
+    "University of British Columbia (Canada)",
+    "Georgia Tech (USA)",
+    "Babson College",
+    "University of Nebraska Omaha",
+    "University of Birmingham",
+    "University of Reading"
+  ],
+  "campusFacilities": [
+    "121+ high-end labs",
+    "Modern classrooms",
+    "Digital library",
+    "Sports complex with 16+ facilities",
+    "Wellness centers",
+    "Innovation hubs and Centres of Excellence",
+    "Student clubs and event spaces"
+  ],
+  "hostels": {
+    "capacity": "Up to 10,000",
+    "wardenOffice": "Main Hostel Block",
+    "policies": [
+      "Entry timings and attendance are enforced",
+      "Visitors must register at security",
+      "Ragging is strictly prohibited"
+    ]
+  },
+  "admissions": {
+    "year": "2026-27",
+    "status": "Open for UG and PG",
+    "scholarships": "Merit-based scholarships up to 100% for high performers (JEE/SAT/CUET and other exams)",
+    "examsAccepted": ["JEE Main", "SAT", "CUET", "NEET (select programs)", "CLAT/LSAT (law)", "National tests for MBA"]
+  },
+  "feeStructure": {
+    "btechCse": "INR 15.70-16.15 Lakhs total tuition (4 years)",
+    "btechEceMechanical": "INR 14-15 Lakhs total tuition",
+    "bbaBcom": "INR 8-9 Lakhs total tuition (3 years)",
+    "lawBaLlbBbaLlb": "INR 15-16 Lakhs total tuition (5 years)",
+    "mba": "INR 14-14.30 Lakhs total tuition (2 years)",
+    "hostelAndMess": "Approx. INR 1.7-2 Lakhs per year"
+  },
+  "placements": {
+    "highlights": {
+      "btechHighest": "Up to INR 1.37 Crore PA",
+      "btechAverage": "Approx. INR 11.10 LPA",
+      "mbaHighest": "Up to INR 42 LPA",
+      "mbaAverage": "Around INR 7.41 LPA",
+      "lawHighest": "Up to INR 28.17 LPA",
+      "mediaHighest": "Up to INR 21 LPA"
+    },
+    "topRecruiters": [
+      "Microsoft",
+      "Amazon",
+      "Deloitte",
+      "TCS",
+      "Infosys",
+      "IBM",
+      "KPMG",
+      "Times Group",
+      "Adobe",
+      "HCL",
+      "Wipro",
+      "Meta"
+    ],
+    "internships": "Stipends can reach high amounts (e.g., INR 4+ lakhs/month in select cases)",
+    "focus": "Industry readiness via The Times Group network and advisory boards"
+  },
+  "researchAndInnovation": {
+    "publications": "6000+",
+    "grantsAndPatents": "Significant grants with patents filed and granted",
+    "initiatives": ["Innovation hubs", "Centres of Excellence", "Student startups", "Hackathon participation and wins"],
+    "events": ["Music festivals", "AI Summit", "Leadership visits"]
+  },
+  "contacts": {
+    "admissions": { "email": "admissions@bennett.edu.in", "phone": "+91-120-XXXXXXXX" },
+    "helpdesk": { "email": "helpdesk@bennett.edu.in" }
+  },
+  "academicCalendar2025_26": {
+    "academic_year": "2025-26",
+    "academic_calendar_applicability": "Applicable to All Returning Students – All Programs",
+    "academic_calendar": [
+      { "date": "01-07-2025", "day": "Tuesday", "type": "Registration for Supplementary Examination (Even Semester 2024-25) Starts" },
+      { "date": "02-07-2025 to 05-07-2025", "day": "Wed–Sat", "type": "End Semester Makeup Examination (Even Semester 2024-25)" },
+      { "date": "06-07-2025", "day": "Sunday", "type": "Holiday – Muharram" },
+      { "date": "07-07-2025 to 10-07-2025", "day": "Mon–Thu", "type": "End Semester Makeup Examination (Even Semester 2024-25)" },
+      { "date": "11-07-2025", "day": "Friday", "type": "Last date for evaluation of End Semester Makeup Answer Sheets" },
+      { "date": "12-07-2025", "day": "Saturday", "type": "Grievance Redressal Window for End Semester Makeup ends" },
+      { "date": "14-07-2025", "day": "Monday", "type": "Last date to enter End Semester Makeup Evaluation marks in ERP" },
+      { "date": "15-07-2025", "day": "Tuesday", "type": "Last Date of Submission of Semester Progress Reports for PhD students" },
+      { "date": "16-07-2025", "day": "Wednesday", "type": "Declaration of End Semester Makeup Examination Results" },
+      { "date": "18-07-2025", "day": "Friday", "type": "Registration for Supplementary Examination (Even 2024-25) ends" },
+      { "date": "21-07-2025", "day": "Monday", "type": "Online Registration of Returning PhD Students (All Years)" },
+      { "date": "23-07-2025", "day": "Wednesday", "type": "Online Registration of Returning Students – 2nd Year (Except PhD students)" },
+      { "date": "24-07-2025", "day": "Thursday", "type": "Announcement of Supplementary Examination Schedule for 2024-25 Even Semester" },
+      { "date": "25-07-2025", "day": "Friday", "type": "Online Registration of Returning Students – 3rd Year (Except PhD students)" },
+      { "date": "26-07-2025", "day": "Saturday", "type": "Online Registration of Returning Students – 4th Year (Except PhD students)" },
+      { "date": "27-07-2025", "day": "Sunday", "type": "Online Registration of Returning Students – 5th Year (Except PhD students)" },
+      { "date": "28-07-2025", "day": "Monday", "type": "Commencement of Classes for all Returning Students" },
+      { "date": "29-07-2025", "day": "Tuesday", "type": "Programme wise schedule will be shared separately by respective Schools" },
+      { "date": "30-07-2025 to 09-08-2025", "day": "Wed–Sat", "type": "Supplementary Examinations (Even Semester 2024-25)" },
+      { "date": "10-08-2025", "day": "Sunday", "type": "Holiday" },
+      { "date": "11-08-2025 to 14-08-2025", "day": "Mon–Thu", "type": "Supplementary Examinations (Even Semester 2024-25)" },
+      { "date": "15-08-2025", "day": "Friday", "type": "Holiday – Independence Day" },
+      { "date": "16-08-2025", "day": "Saturday", "type": "Supplementary Examinations (Even Semester 2024-25)" },
+      { "date": "17-08-2025", "day": "Sunday", "type": "Holiday" },
+      { "date": "18-08-2025", "day": "Monday", "type": "Last date for evaluation of Supplementary Examination Answer Sheets" },
+      { "date": "19-08-2025", "day": "Tuesday", "type": "Last date for add/drop of a course (Returning Students)" },
+      { "date": "20-08-2025", "day": "Wednesday", "type": "Last date to show Supplementary Examination Answer Sheets to students" },
+      { "date": "22-08-2025", "day": "Friday", "type": "Registration for Sp. Supplementary Examination (Only for Graduating and Pass out students) Starts" },
+      { "date": "25-08-2025", "day": "Monday", "type": "Declaration of Supplementary Examination Results" },
+      { "date": "26-08-2025", "day": "Tuesday", "type": "Registration for Special Supplementary Examination ends" },
+      { "date": "27-08-2025", "day": "Wednesday", "type": "Sp. Supplementary Examinations" },
+      { "date": "28-08-2025", "day": "Thursday", "type": "Sp. Supplementary Examinations" },
+      { "date": "29-08-2025", "day": "Friday", "type": "National Sports Day" },
+      { "date": "30-08-2025", "day": "Saturday", "type": "National Sports Day" },
+      { "date": "31-08-2025", "day": "Sunday", "type": "Holiday" },
+      { "date": "01-09-2025 to 06-09-2025", "day": "Mon–Sat", "type": "Sp. Supplementary Examinations" },
+      { "date": "07-09-2025", "day": "Sunday", "type": "Holiday – Eid Milad un Nabi" },
+      { "date": "08-09-2025", "day": "Monday", "type": "Last date for evaluation of Special Supplementary Answer Sheets" },
+      { "date": "10-09-2025", "day": "Wednesday", "type": "Declaration of Special Supplementary Examination Results" },
+      { "date": "02-10-2025", "day": "Thursday", "type": "Holiday – Mahatma Gandhi Jayanti" },
+      { "date": "11-10-2025", "day": "Saturday", "type": "Mid Semester Examination for All Students (Odd Semester 2025-26)" },
+      { "date": "13-10-2025 to 18-10-2025", "day": "Mon–Sat", "type": "Mid Semester Examination for All Students (Odd Semester 2025-26)" },
+      { "date": "20-10-2025", "day": "Monday", "type": "Registration for Supplementary Examination (Odd Semester 2025-26) Starts" },
+      { "date": "21-10-2025", "day": "Tuesday", "type": "Holiday – Diwali" },
+      { "date": "22-10-2025", "day": "Wednesday", "type": "Holiday – Diwali" },
+      { "date": "23-10-2025", "day": "Thursday", "type": "Holiday – Diwali" },
+      { "date": "24-10-2025", "day": "Friday", "type": "Holiday – Diwali" },
+      { "date": "25-10-2025", "day": "Saturday", "type": "Last date to apply for Mid Semester Makeup Examination" },
+      { "date": "26-10-2025", "day": "Sunday", "type": "Holiday" },
+      { "date": "27-10-2025", "day": "Monday", "type": "Mid Semester Makeup Examination" },
+      { "date": "28-10-2025", "day": "Tuesday", "type": "Last date to submit ODC Report for PhD Scholars" },
+      { "date": "29-10-2025", "day": "Wednesday", "type": "Last date for evaluation of Mid Semester Examination Answer Sheets" },
+      { "date": "30-10-2025", "day": "Thursday", "type": "Mid Semester Makeup Examination" },
+      { "date": "31-10-2025", "day": "Friday", "type": "Mid Semester Makeup Examination PhD Scholars (for Convocation of 2024-25)" },
+      { "date": "01-11-2025", "day": "Saturday", "type": "Last date to enter Mid Semester Evaluation marks into ERP" },
+      { "date": "03-11-2025", "day": "Monday", "type": "Registration for Supplementary Examination (Odd Semester 2025-26) ends" },
+      { "date": "04-11-2025", "day": "Tuesday", "type": "Holiday – Guru Nanak Jayanti" },
+      { "date": "06-11-2025", "day": "Thursday", "type": "Last date to enter Mid Semester Makeup Evaluation marks into ERP" },
+      { "date": "08-11-2025", "day": "Saturday", "type": "Convocation (Tentative)" },
+      { "date": "11-11-2025", "day": "Tuesday", "type": "Announcement of End Semester and Supplementary Examination Schedule for 2025-26 Odd Semester" },
+      { "date": "15-11-2025", "day": "Saturday", "type": "Convocation (Tentative)" },
+      { "date": "17-11-2025", "day": "Monday", "type": "Lab Examinations Start" },
+      { "date": "18-11-2025", "day": "Tuesday", "type": "Last date to apply for Attendance Condonation" },
+      { "date": "19-11-2025", "day": "Wednesday", "type": "Lab Examinations Start – Renovaite – Entrepreneurship Summit" },
+      { "date": "20-11-2025", "day": "Thursday", "type": "Lab Examinations Start" },
+      { "date": "21-11-2025", "day": "Friday", "type": "Lab Examinations Start – Indian Constitution Day" },
+      { "date": "22-11-2025", "day": "Saturday", "type": "Lab Examinations Start" },
+      { "date": "23-11-2025", "day": "Sunday", "type": "Holiday" },
+      { "date": "24-11-2025", "day": "Monday", "type": "Lab Examinations" },
+      { "date": "25-11-2025", "day": "Tuesday", "type": "Lab Examinations" },
+      { "date": "26-11-2025", "day": "Wednesday", "type": "Lab Examinations" },
+      { "date": "27-11-2025", "day": "Thursday", "type": "Lab Examinations" },
+      { "date": "28-11-2025", "day": "Friday", "type": "Lab Examinations" },
+      { "date": "29-11-2025", "day": "Saturday", "type": "Distribution of Admit Cards Begin" },
+      { "date": "01-12-2025 to 12-12-2025", "day": "Mon–Fri", "type": "End Semester Examination for all students (Odd Semester 2025-26)" },
+      { "date": "13-12-2025", "day": "Saturday", "type": "End Semester Examination for all students (Odd Semester 2025-26)" },
+      { "date": "14-12-2025", "day": "Sunday", "type": "Holiday" },
+      { "date": "15-12-2025 to 20-12-2025", "day": "Mon–Sat", "type": "End Semester Examination for all students (Odd Semester 2025-26)" },
+      { "date": "21-12-2025", "day": "Sunday", "type": "Holiday" },
+      { "date": "22-12-2025", "day": "Monday", "type": "End Semester Examination for all students (Odd Semester 2025-26)" },
+      { "date": "23-12-2025", "day": "Tuesday", "type": "Vacations Begin for Faculty Members (23rd December – 4th January)" },
+      { "date": "25-12-2025", "day": "Thursday", "type": "Holiday – Christmas Day" },
+      { "date": "26-12-2025", "day": "Friday", "type": "End Semester Submission (Report/Presentation/Viva/Voce/Internship/Dissertation etc.)" },
+      { "date": "31-12-2025", "day": "Wednesday", "type": "Online Registration for all Students Even Semester 2025-26 (Except PhD students)" },
+      { "date": "01-01-2026", "day": "Thursday", "type": "New Year Day Holiday" },
+      { "date": "02-01-2026", "day": "Friday", "type": "Online Registration for all Students Even Semester ends (Except PhD students)" },
+      { "date": "04-01-2026", "day": "Sunday", "type": "Last Date to apply for End Semester Makeup Examination (Odd Semester 2025-26)" },
+      { "date": "05-01-2026", "day": "Monday", "type": "Commencement of Classes for All Semesters all Programmes (Even Semester)" },
+      { "date": "06-01-2026", "day": "Tuesday", "type": "Welcome Back Celebrations (Cultural)" },
+      { "date": "07-01-2026", "day": "Wednesday", "type": "Announcement of approved list of students eligible for the End Semester Makeup Examination" },
+      { "date": "08-01-2026", "day": "Thursday", "type": "Announcement of End Semester Makeup Examination Schedule for 2025-26 Odd Semester" },
+      { "date": "10-01-2026", "day": "Saturday", "type": "Declaration of End Semester Examination Results" },
+      { "date": "12-01-2026 to 17-01-2026", "day": "Mon–Sat", "type": "End Semester Makeup Examination (Odd semester 2025-26)" },
+      { "date": "18-01-2026", "day": "Sunday", "type": "Holiday" },
+      { "date": "19-01-2026", "day": "Monday", "type": "End Semester Makeup Examination (Odd semester 2025-26)" },
+      { "date": "20-01-2026", "day": "Tuesday", "type": "End Semester Makeup Examination (Odd semester 2025-26)" },
+      { "date": "21-01-2026", "day": "Wednesday", "type": "End Semester Makeup Examination (Odd semester 2025-26)" },
+      { "date": "22-01-2026", "day": "Thursday", "type": "End Semester Makeup Examination (Odd semester 2025-26)" },
+      { "date": "23-01-2026", "day": "Friday", "type": "End Semester Makeup Examination (Odd semester 2025-26)" },
+      { "date": "24-01-2026", "day": "Saturday", "type": "Republic Day" },
+      { "date": "25-01-2026", "day": "Sunday", "type": "Online Registration for PhD Students starts (All Years)" },
+      { "date": "27-01-2026", "day": "Tuesday", "type": "Last date for evaluation of End Semester Makeup Answer Sheets" },
+      { "date": "29-01-2026", "day": "Thursday", "type": "Online Registration for PhD Students ends" },
+      { "date": "30-01-2026", "day": "Friday", "type": "Last date to enter End Semester Makeup Evaluation marks into ERP" },
+      { "date": "01-02-2026", "day": "Sunday", "type": "Declaration of Makeup Examination Results" },
+      { "date": "20-02-2026", "day": "Friday", "type": "Holiday – Eid ul Fitr" },
+      { "date": "23-02-2026 to 28-02-2026", "day": "Mon–Sat", "type": "Mid Semester Examination for All Students (Even Semester 2025-26)" },
+      { "date": "01-03-2026 to 08-03-2026", "day": "Sun–Sun", "type": "Mid Semester Examination for All Students (Even Semester 2025-26)" },
+      { "date": "09-03-2026", "day": "Monday", "type": "Last date to apply for Mid Semester make up" },
+      { "date": "10-03-2026", "day": "Tuesday", "type": "Registration for Supplementary Examination (Even Semester 2025-26) Starts" },
+      { "date": "11-03-2026", "day": "Wednesday", "type": "Last date for evaluation of Mid Semester Exam Answer Sheets" },
+      { "date": "13-03-2026", "day": "Friday", "type": "Holiday – Mahashivratri" },
+      { "date": "01-04-2026", "day": "Wednesday", "type": "Good Friday Holiday" },
+      { "date": "04-04-2026 to 13-04-2026", "day": "Various dates", "type": "Mid Semester Makeup Examination All Students (Even Semester 2025-26)" },
+      { "date": "14-04-2026", "day": "Tuesday", "type": "Holiday – Dr. Ambedkar Jayanti" },
+      { "date": "17-04-2026", "day": "Friday", "type": "Last date for entry of Mid Semester Makeup marks into ERP" },
+      { "date": "20-04-2026", "day": "Monday", "type": "Announcement of End Semester and Supplementary Examination Schedule for 2025-26 Even Semester" },
+      { "date": "25-04-2026", "day": "Saturday", "type": "Last date to apply for Attendance Condonation" },
+      { "date": "27-04-2026", "day": "Monday", "type": "Completion of Detailed List starts" },
+      { "date": "02-05-2026", "day": "Saturday", "type": "Buddha Purnima Holiday" },
+      { "date": "04-05-2026", "day": "Monday", "type": "Lab Examinations Start" },
+      { "date": "06-05-2026", "day": "Wednesday", "type": "Last Teaching Day" },
+      { "date": "07-05-2026", "day": "Thursday", "type": "Publication of Debarred List for End Semester Examination Even Semester 2025-26" },
+      { "date": "08-05-2026", "day": "Friday", "type": "Last date for entry of internal marks into ERP system" },
+      { "date": "09-05-2026", "day": "Saturday", "type": "Distribution of Admit Cards Starts" },
+      { "date": "11-05-2026 to 23-05-2026", "day": "Mon–Fri", "type": "End Semester Examination for all students (Even Semester 2025-26)" }
+    ]
+  }
+}

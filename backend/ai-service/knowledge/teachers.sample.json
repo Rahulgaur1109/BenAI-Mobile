@@ -1,0 +1,71 @@
+{
+  "teachers": [
+    {
+      "firstName": "Anita",
+      "lastName": "Verma",
+      "email": "anita.verma@bennett.edu.in",
+      "department": "Computer Science",
+      "designation": "Associate Professor",
+      "employeeId": "BU-CS-1023",
+      "specialization": "Machine Learning",
+      "phone": "+91-98111-23045",
+      "office": { "building": "N Block", "area": "N2", "room": "N2-214", "type": "Cubicle" }
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Sharma",
+      "email": "rahul.sharma@bennett.edu.in",
+      "department": "Management",
+      "designation": "Assistant Professor",
+      "employeeId": "BU-MGMT-2041",
+      "specialization": "Finance",
+      "phone": "+91-98734-55210",
+      "office": { "building": "M Block", "area": "M1", "room": "M1-118", "type": "Cubicle" }
+    },
+    {
+      "firstName": "Priya",
+      "lastName": "Nair",
+      "email": "priya.nair@bennett.edu.in",
+      "department": "Artificial Intelligence",
+      "designation": "Assistant Professor",
+      "employeeId": "BU-AI-3052",
+      "specialization": "Natural Language Processing",
+      "phone": "+91-98990-11447",
+      "office": { "building": "N Block", "area": "N3", "room": "N3-306", "type": "Cubicle" }
+    },
+    {
+      "firstName": "Arjun",
+      "lastName": "Malik",
+      "email": "arjun.malik@bennett.edu.in",
+      "department": "Law",
+      "designation": "Associate Professor",
+      "employeeId": "BU-LAW-1220",
+      "specialization": "Corporate Law",
+      "phone": "+91-98102-77854",
+      "office": { "building": "L Block", "area": "L2", "room": "L2-207", "type": "Cabin" }
+    },
+    {
+      "firstName": "Meera",
+      "lastName": "Saxena",
+      "email": "meera.saxena@bennett.edu.in",
+      "department": "Design",
+      "designation": "Senior Lecturer",
+      "employeeId": "BU-DES-4410",
+      "specialization": "UI/UX and Game Design",
+      "phone": "+91-98201-66432",
+      "office": { "building": "D Block", "area": "D1", "room": "D1-115", "type": "Studio" }
+    },
+    {
+      "firstName": "Ravikant",
+      "lastName": "Tyagi",
+      "email": "ravikant.tyagi@bennett.edu.in",
+      "department": "Computer Science",
+      "designation": "Fullstack Trainer",
+      "employeeId": "BU-FS-9001",
+      "specialization": "Full-stack engineering (Frontend + Backend)",
+      "phone": "+91-98100-11223",
+      "office": { "building": "M Block", "area": "M3", "room": "M3-105", "type": "Training Lab" },
+      "experience": "Ex-Xebia; focuses on fullstack training and industry projects"
+    }
+  ]
+}

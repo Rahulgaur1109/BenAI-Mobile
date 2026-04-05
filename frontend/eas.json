@@ -1,0 +1,32 @@
+{
+  "cli": {
+    "version": ">= 13.0.0"
+  },
+  "build": {
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_CORE_SERVICE_URL": "REPLACE_WITH_CORE_SERVICE_HTTPS_URL",
+        "EXPO_PUBLIC_AI_SERVICE_URL": "REPLACE_WITH_AI_SERVICE_HTTPS_URL",
+        "EXPO_PUBLIC_FRONTEND_URL": "REPLACE_WITH_FRONTEND_HTTPS_URL"
+      }
+    },
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "env": {
+        "EXPO_PUBLIC_CORE_SERVICE_URL": "REPLACE_WITH_CORE_SERVICE_HTTPS_URL",
+        "EXPO_PUBLIC_AI_SERVICE_URL": "REPLACE_WITH_AI_SERVICE_HTTPS_URL",
+        "EXPO_PUBLIC_FRONTEND_URL": "REPLACE_WITH_FRONTEND_HTTPS_URL"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
+

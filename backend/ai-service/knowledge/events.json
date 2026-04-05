@@ -1,0 +1,25 @@
+{
+  "upcoming": [
+    {
+      "title": "Tech Symposium 2025",
+      "date": "2025-12-15",
+      "venue": "Main Auditorium",
+      "description": "Talks, demos, and workshops by industry experts and students."
+    },
+    {
+      "title": "Cultural Fest",
+      "date": "2026-01-20",
+      "venue": "Central Lawn",
+      "description": "Music, dance, and inter-college competitions."
+    }
+  ],
+  "ongoing": [],
+  "past": [
+    {
+      "title": "Orientation Week",
+      "date": "2025-08-01",
+      "venue": "Campus",
+      "description": "Introductory sessions and campus tours for freshmen."
+    }
+  ]
+}

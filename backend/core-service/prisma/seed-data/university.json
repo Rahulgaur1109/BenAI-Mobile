@@ -1,0 +1,25 @@
+{
+  "name": "Bennett University",
+  "location": "Greater Noida, Uttar Pradesh, India",
+  "about": "Bennett University is a private university offering undergraduate and postgraduate programs across Engineering, Management, Law, Media, and Liberal Arts.",
+  "schools": [
+    { "name": "School of Engineering and Applied Sciences", "programs": ["B.Tech", "M.Tech", "Ph.D."] },
+    { "name": "School of Management", "programs": ["BBA", "MBA", "Ph.D."] },
+    { "name": "School of Law", "programs": ["B.A. LL.B.", "B.B.A. LL.B.", "LL.M."] },
+    { "name": "Times School of Media", "programs": ["BAJMC", "MA", "Ph.D."] },
+    { "name": "School of Liberal Arts", "programs": ["BA", "BSc"] }
+  ],
+  "contacts": {
+    "admissions": { "email": "admissions@bennett.edu.in", "phone": "+91-XXXXXXXXXX" },
+    "helpdesk": { "email": "helpdesk@bennett.edu.in" }
+  },
+  "hostels": {
+    "wardenOffice": "Main Hostel Block",
+    "policies": [
+      "Entry timings and attendance are enforced",
+      "Visitors must register at security",
+      "Ragging is strictly prohibited"
+    ]
+  },
+  "campusFacilities": ["Library", "Sports Complex", "Cafeteria", "Labs", "Auditorium"]
+}
